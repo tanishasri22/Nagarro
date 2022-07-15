@@ -1,0 +1,20 @@
+li{
+	/*height: 10px;*/
+	width: 400px;
+	color: black;
+	font-size: 20px;
+	border: 0px solid black;
+	border-top: 2px;
+	border-radius: 5px;
+	background-color: #3951c02e;
+	text-align: left;
+	padding-left: 2px;
+	margin: 20px;
+}
+
+body{
+	 background: rgba(0, 0, 0, 0.3) url('https://images.unsplash.com/photo-1600492515568-8868f609511e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1250&q=80');
+	 background-size: cover;
+	 text-align: center;
+}
+}
